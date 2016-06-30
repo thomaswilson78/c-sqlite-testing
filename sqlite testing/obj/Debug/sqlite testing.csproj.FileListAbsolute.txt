@@ -1,0 +1,1 @@
+c:\users\it\documents\visual studio 2015\Projects\sqlite testing\sqlite testing\bin\Debug\sqlite testing.exe.config

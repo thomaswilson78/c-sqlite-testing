@@ -1,0 +1,7 @@
+c:\users\it\documents\visual studio 2015\Projects\sqlite testing\sqlite testing\bin\x86\Debug\sqlite testing.exe.config
+c:\users\it\documents\visual studio 2015\Projects\sqlite testing\sqlite testing\bin\x86\Debug\sqlite testing.exe
+c:\users\it\documents\visual studio 2015\Projects\sqlite testing\sqlite testing\bin\x86\Debug\sqlite testing.pdb
+c:\users\it\documents\visual studio 2015\Projects\sqlite testing\sqlite testing\bin\x86\Debug\System.Data.SQLite.dll
+c:\users\it\documents\visual studio 2015\Projects\sqlite testing\sqlite testing\obj\x86\Debug\sqlite testing.csprojResolveAssemblyReference.cache
+c:\users\it\documents\visual studio 2015\Projects\sqlite testing\sqlite testing\obj\x86\Debug\sqlite testing.exe
+c:\users\it\documents\visual studio 2015\Projects\sqlite testing\sqlite testing\obj\x86\Debug\sqlite testing.pdb
